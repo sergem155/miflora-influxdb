@@ -16,11 +16,10 @@ $ ./poll-insert.py
 $ ./poll-insert.py device1 device2 device3
 ```
 
-Dependencies: InfluxDB, btlewrap, bluepy
+Dependencies: InfluxDB, bluepy
 ```sh
 $ sudo apt install python3-pip
 $ sudo pip3 install influxdb
-$ sudo pip3 install btlewrap
 $ sudo pip3 install bluepy
 ```
 

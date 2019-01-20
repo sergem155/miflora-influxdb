@@ -1,0 +1,3 @@
+#!/bin/sh
+# must have permissions to the variable belowZZZZ
+echo 2000 > /sys/kernel/debug/bluetooth/hci0/supervision_timeout

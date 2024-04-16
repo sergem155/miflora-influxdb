@@ -23,3 +23,4 @@ $ sudo pip3 install influxdb
 $ sudo pip3 install bluepy
 ```
 
+[more](http://blog.sergem.net/monitoring-backyard-soil-with-xiaomi-mi-flora-plant-monitor-influxdb-and-grafana/)
